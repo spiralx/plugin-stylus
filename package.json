@@ -1,0 +1,29 @@
+{
+  "name": "plugin-stylus",
+  "version": "0.0.1",
+  "description": "SystemJS Stylus loader plugin",
+  "main": "src/loader.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiralx/plugin-stylus.git"
+  },
+  "keywords": [
+    "jspm",
+    "systemjs",
+    "stylus",
+    "loader",
+    "plugin"
+  ],
+  "author": "James Skinner <spiralx@gmail.com> (https://github.com/spiralx)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spiralx/plugin-stylus/issues"
+  },
+  "homepage": "https://github.com/spiralx/plugin-stylus#readme",
+  "dependencies": {
+    "stylus": "^0.53.0"
+  }
+}
